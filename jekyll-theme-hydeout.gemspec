@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-hydeout"
+  spec.name          = "Dinggick's blog"
   spec.version       = "3.6.0"
   spec.authors       = ["Andrew Fong"]
   spec.email         = ["id@andrewfong.com"]
 
-  spec.summary       = %q{The Hyde theme for Jekyll, refreshed.}
-  spec.homepage      = "https://github.com/fongandrew/hydeout"
+  spec.summary       = %q{For AOSP Project.}
+  spec.homepage      = "https://dinggick.github.io"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
